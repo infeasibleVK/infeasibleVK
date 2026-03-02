@@ -9,101 +9,65 @@
 ## 👨‍💻 About Me
 
 🎓 B.Tech Computer Science Student  
-💻 Strong inclination towards **Competitive Programming & Advanced DSA**  
-🤖 Building intelligent systems using **Agentic AI & Generative AI**  
-🚀 Interested in solving complex algorithmic and real-world AI problems  
+💻 Strong foundation in **Data Structures & Algorithms**  
+🏆 Passionate about **Competitive Programming**  
+🤖 Building intelligent systems using **Agentic & Generative AI**  
 
-I combine strong algorithmic thinking with modern AI system design.
+I combine strong algorithmic thinking with modern AI system design to solve complex problems efficiently.
 
 ---
 
-# 🏆 Competitive Programming
+## 🏆 Competitive Programming
 
 - 🔥 Solved 500+ DSA problems  
 - ⚡ Strong in Graphs, DP, Trees, Recursion, Number Theory  
-- 🧠 Focus on writing optimized and clean C++ solutions  
-- 🏁 Regular contest participation  
+- 🧠 Write optimized and clean C++ solutions  
+- 🏁 Regular contest participant  
 
 ---
 
-# 🤖 Generative & Agentic AI
+## 🤖 Generative & Agentic AI
 
-- 🧩 Building LLM-powered applications  
 - 🔗 Designing multi-agent workflows  
+- 🧩 Building LLM-powered applications  
 - 🛠️ Implementing RAG pipelines  
-- 🧠 Working with structured prompting & reasoning systems  
-- ⚙️ Exploring tool-using AI agents  
+- 🧠 Structured prompting & reasoning systems  
+- ⚙️ Tool-integrated AI agents  
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"/> <b>C++</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="40"/> <b>Python</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40"/> <b>Java</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="40"/> <b>C</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sql" height="40"/> <b>SQL</b>
-</p>
+### 🤖 AI / Agentic Stack
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
----
-
-## 🤖 AI / LLM & Agentic Stack
-
-<p>
-  <img src="https://cdn.simpleicons.org/openai/white" height="40"/> <b>OpenAI API</b> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/00A67E" height="40"/> <b>LangChain</b> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40"/> <b>LangGraph</b> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40"/> <b>HuggingFace</b> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40"/> <b>PyTorch</b> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40"/> <b>TensorFlow</b>
-</p>
-
----
-
-## ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/> <b>Git</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40"/> <b>GitHub</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="40"/> <b>Linux</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> <b>VS Code</b>
-</p>
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/YOUR_CF">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat)](https://codeforces.com/profile/YOUR_CF)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
-# 💬 Philosophy
 
 > “Strong fundamentals in algorithms + intelligent AI systems = Real impact.”
-
----
-
-⭐ If you appreciate my work, feel free to explore and star my repositories!

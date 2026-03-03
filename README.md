@@ -1,38 +1,20 @@
 # 👋 Hi, I'm Vishu Kurrey
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;Competitive+Programmer;Agentic+AI+Builder;Generative+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=IIT+Kharagpur+CS+Undergrad;Codeforces+Specialist;Competitive+Programmer;Agentic+AI+Builder" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Student  
-💻 Strong foundation in **Data Structures & Algorithms**  
-🏆 Passionate about **Competitive Programming**  
-🤖 Building intelligent systems using **Agentic & Generative AI**  
+🎓 2nd Year Undergraduate in Computer Science at **IIT Kharagpur**  
 
-I combine strong algorithmic thinking with modern AI system design to solve complex problems efficiently.
+🏆 **Specialist on Codeforces (Max Rating: 1598)** with strong expertise in Data Structures & Algorithms, particularly Graphs, Dynamic Programming, Trees, and Number Theory.  
 
----
+🤖 Passionate about building **Agentic and Generative AI systems**, including LLM-powered applications, multi-agent workflows, and Retrieval-Augmented Generation (RAG) pipelines using tools like LangChain and LangGraph.
 
-## 🏆 Competitive Programming
-
-- 🔥 Solved 500+ DSA problems  
-- ⚡ Strong in Graphs, DP, Trees, Recursion, Number Theory  
-- 🧠 Write optimized and clean C++ solutions  
-- 🏁 Regular contest participant  
-
----
-
-## 🤖 Generative & Agentic AI
-
-- 🔗 Designing multi-agent workflows  
-- 🧩 Building LLM-powered applications  
-- 🛠️ Implementing RAG pipelines  
-- 🧠 Structured prompting & reasoning systems  
-- ⚙️ Tool-integrated AI agents  
+I enjoy combining strong algorithmic foundations with modern AI system design to solve complex real-world problems efficiently and intelligently.
 
 ---
 
@@ -66,8 +48,9 @@ I combine strong algorithmic thinking with modern AI system design to solve comp
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat)](https://codeforces.com/profile/YOUR_CF)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
-> “Strong fundamentals in algorithms + intelligent AI systems = Real impact.”
+> “Strong algorithmic foundations combined with intelligent AI systems create real impact.”

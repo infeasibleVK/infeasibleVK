@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Vishu Kurrey
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=IIT+Kharagpur+CS+Undergrad;Codeforces+Specialist;Competitive+Programmer;Agentic+AI+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=IIT+Kharagpur+CS+Undergrad;Codeforces+Expert;Competitive+Programmer;Agentic+AI+Builder" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 2nd Year Undergraduate in Computer Science at **IIT Kharagpur**  
+🎓 3rd Year Undergraduate in Computer Science at **IIT Kharagpur**  
 
-🏆 **Specialist on Codeforces (Max Rating: 1598)** with strong expertise in Data Structures & Algorithms, particularly Graphs, Dynamic Programming, Trees, and Number Theory.  
+🏆 **Expert on Codeforces (Max Rating: 1758)** with strong expertise in Data Structures & Algorithms, particularly Graphs, Dynamic Programming, Trees, and Number Theory.  
 
 🤖 Passionate about building **Agentic and Generative AI systems**, including LLM-powered applications, multi-agent workflows, and Retrieval-Augmented Generation (RAG) pipelines using tools like LangChain and LangGraph.
 
@@ -44,12 +44,11 @@ I enjoy combining strong algorithmic foundations with modern AI system design to
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat)](https://codeforces.com/profile/YOUR_CF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/vishu-kurrey-2b4777324)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vishhuuu_1)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat)](https://codeforces.com/profile/Vishhuuu_1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishuwork2006@gmail.com)
 
 ---
 
